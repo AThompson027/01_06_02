@@ -7,6 +7,8 @@
         Filename: script.js
      */
 
+//*** DO NOT HAVE EXPLORER 8, CANNOT TEST***
+
  "use strict";
  // global variable
  var formValidity = true;
